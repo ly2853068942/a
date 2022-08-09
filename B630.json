@@ -453,6 +453,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"解析OKjx综合","type":0,"url":"https://okjx.cc/?url="},
 {"name": "随便1","type": 1,"url": "http://cl.yjhan.com:8090/home/api?type=ys&uid=821518&key=aghlmnyBFIJMPRX489&url="},
 {"name": "随便2","type": 1,"url": "https://www.nfjx.xyz/home/api?type=ys&uid=5767995&key=ijkmovxDEHIJPQRW69&url="},
 {"name":"秒播","type":1,"url":"https://app.okmedcos.com/4k/?url="},
