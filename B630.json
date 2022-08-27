@@ -466,6 +466,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"高速vip","type":0,"url":"https://vip.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"解析OKjx综合","type":0,"url":"https://okjx.cc/?url="},
 {"name":"m1907.cn","type":0,"url": "https://z1.m1907.cn/?jx="},
 {"name":"Parwix解析系统","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
