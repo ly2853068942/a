@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://ly2853068942.github.io/a/630.jar;md5;EBDFC9A830B4531083FF3540195DF85D",
+"spider":"https://ly2853068942.github.io/a/630.jar;md5;B9F56A8430F7B8FA7C3471663CA4B5E1",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9seTI4NTMwNjg5NDIuZ2l0aHViLmlvL2EvdHYvYmMudHh0"]}]}],
 
 
@@ -172,6 +172,7 @@
 ## XPath系列
 //{"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ly2853068942.github.io/a/MaooXP/duboku.json"},
 {"key":"csp_xpath_meijuchong","name":"💩美剧虫(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXP/meijuchong.json"},
+{"key": "csp_XYQBiu_凌云影视","name": "💥凌云影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://ly2853068942.github.io/a/MaooXP/lyys.json"},
 {"key":"csp_xpath_yinfans","name":"💥音范丝4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ly2853068942.github.io/a/MaooXP/音范丝.json"},
 {"key":"if101资源","name":"if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_xpath_Dy555","name":"Dy555(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXP/555dy.json"},
@@ -208,7 +209,6 @@
 {"key":"csp_xpath_4kpianku","name":"4k片库网(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ly2853068942.github.io/a/MaooXP/4kpianku.json"},
 {"key":"csp_xpath_xiangdao","name":"农民影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ly2853068942.github.io/a/MaooXP/xiangdao.json"},
 {"key":"csp_xpath_lkvod","name":"耐看点播(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ly2853068942.github.io/a/MaooXP/lkvod.json"},
-
 {"key":"csp_xpath_czspp","name":"厂长资源(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXP/czspp.json"},
 {"key":"csp_XPath_bidiys","name":"哔嘀影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXP/bidiys2.json"},
 {"key":"csp_xpath_age","name":"AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXP/agefans.json"},
