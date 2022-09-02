@@ -28,7 +28,7 @@
 {"key":"csp_Nbys","name":"🐼泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_DY1990","name":"🐼1990电影(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_GitCafe","name":"🦊小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":01,"ext":"41edc40f23c74be4bc7714a29669767d"},
-{"key": "T4","name": "🥒T4搜索","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=41edc40f23c74be4bc7714a29669767d&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"T4公共","name":"🐼T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=123456789","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_AliPS","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"41edc40f23c74be4bc7714a29669767d"},
 {"key": "csp_Yiso","name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"41edc40f23c74be4bc7714a29669767d"},
 {"key":"push_agent","name":"🥒推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"41edc40f23c74be4bc7714a29669767d"},
