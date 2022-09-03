@@ -5,6 +5,7 @@
 
 "sites":[
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ly2853068942.github.io/a/修77.jar;md5;1B0FAE7C99B09C6F66D6C39B114580A9"},
+{"key": "T4","name": "🐼T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Lezhu","name": "🐷乐猪影视(SP)","type": 3,"api": "csp_Lezhu","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Wmkk","name": "🥒完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 //{"key": "小熊","name": "🐼小熊TV","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
