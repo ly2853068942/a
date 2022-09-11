@@ -41,7 +41,7 @@
 //{"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ly2853068942.github.io/a/修77.jar;md5;1B0FAE7C99B09C6F66D6C39B114580A9"},
 {"key":"csp_xpath_maiole","name":"💩喵乐(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXP/喵乐.json"},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ly2853068942.github.io/a/MaooXP/huya2.json"},
-{"key": "花猫影视","name": "🐱花猫影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ly2853068942.github.io/a/MaooXB/花猫影视.json"},
+{"key":"csp_biubiu_花猫影视","name": "🐱花猫影视(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ly2853068942.github.io/a/MaooXB/花猫影视.json"},
 {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXB/斗鱼.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXP/kuqimv.json"},
 //{"key":"哔嘀影视(cl)","name": "🥒哔嘀影视(cl)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MeowXP/biditd.json"},
@@ -175,8 +175,8 @@
 
 ## XPath系列
 //{"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ly2853068942.github.io/a/MaooXP/duboku.json"},
-{"key": "csp_xpath_球迷2","name": "⚽🏀球赛","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://ly2853068942.github.io/a/MaooXP/球迷.json"},
-{"key": "csp_xpath_789KP","name": "⚽789看片","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ly2853068942.github.io/a/MaooXP/789KP.json"},
+{"key": "csp_xpath_球迷","name": "⚽🏀球赛","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://ly2853068942.github.io/a/MaooXP/球迷.json"},
+{"key": "csp_xpath_789kp","name": "⚽789看片","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ly2853068942.github.io/a/MaooXP/789kp.json"},
 {"key":"csp_xpath_meijuchong","name":"💩美剧虫(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXP/meijuchong.json"},
 {"key": "csp_XYQBiu_凌云影视","name": "💥凌云影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://ly2853068942.github.io/a/MaooXP/lyys.json"},
 {"key":"csp_xpath_yinfans","name":"💥音范丝4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ly2853068942.github.io/a/MaooXP/音范丝.json"},
