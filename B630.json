@@ -7,7 +7,7 @@
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Lezhu","name": "🐷乐猪影视(SP)","type": 3,"api": "csp_Lezhu","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"T4公共","name":"🐼T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=123456789","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"巴士","name":"巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ly2853068942.github.io/a/巴士.jar;md5;0668AE130937219D2C304798B9D38D3F"},
+{"key":"csp_巴士","name":"巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ly2853068942.github.io/a/巴士.jar;md5;0668AE130937219D2C304798B9D38D3F"},
 //{"key":"csp_Wmkk","name": "🥒完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 //{"key": "小熊","name": "🐼小熊TV","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Smdyy","name": "🎾神马影院〔SP〕","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1},
