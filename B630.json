@@ -1,13 +1,17 @@
 ﻿{
-"spider":"https://ly2853068942.github.io/a/630.jar;md5;EE77D27EE6ECFC4B6BCEA8315954EC0C",
+"spider":"https://ly2853068942.github.io/a/630.jar;md5; FBA3E121A785D0F9241BA30FAD859B59",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9seTI4NTMwNjg5NDIuZ2l0aHViLmlvL2EvdHYvYmMudHh0"]}]}],
 
 
 "sites":[
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "AppTT","name": "🥒TT(SP)","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1}, 
+{"key": "Anime1","name": "🎾日漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"key": "csp_Lezhu","name": "🐷乐猪影视(SP)","type": 3,"api": "csp_Lezhu","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"T4公共","name":"🐼T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=123456789","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"csp_Wmkk","name": "🥒完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key": "看视界","name": "👒看视界(SP)","type": 3,"api": "csp_KanSJ","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "哔滴影视","name": "🐼哔滴影视(SP)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_EEEDY","name": "🥒3EDY","api":"csp_EEEDY","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 //{"key": "小熊","name": "🐼小熊TV","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Smdyy","name": "🎾神马影院〔SP〕","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1},
@@ -17,10 +21,10 @@
 {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🥒小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_BBB","name":"🥒哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ly2853068942.github.io/a/MaooXB/bili.json"},
-//{"key":"csp_Dy555","name":"🥒Dy555(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Dy555","name":"🥒Dy555(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_n0ys","name":"💥1090影视(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_剧荒","name":"🥒剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
+{"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🐼Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Buka","name":"🐼真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
