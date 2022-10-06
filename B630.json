@@ -6,9 +6,10 @@
 "sites":[
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "AppTT","name": "🥒TT(SP)","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-{"key": "Anime1","name": "🎾日漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1}, 
+{"key": "Anime1","name": "🎾日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"key": "csp_Lezhu","name": "🐷乐猪影视(SP)","type": 3,"api": "csp_Lezhu","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"T4公共","name":"🐼T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=123456789","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Nmys","name":"✌Nmys(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Wmkk","name": "🥒完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "看视界","name": "👒看视界(SP)","type": 3,"api": "csp_KanSJ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "哔滴影视","name": "🐼哔滴影视(SP)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
