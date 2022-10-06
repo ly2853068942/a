@@ -1,7 +1,11 @@
 ﻿{
 "spider":"https://ly2853068942.github.io/a/630.jar;md5; FBA3E121A785D0F9241BA30FAD859B59",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9seTI4NTMwNjg5NDIuZ2l0aHViLmlvL2EvdHYvYmMudHh0"]}]}],
-
+"rules": [
+  {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
+  {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
+  {"host":"zjmiao.com", "rule":["play.videomiao.vip/API.php", "time=", "key=", "path="]}
+]
 
 "sites":[
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
