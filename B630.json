@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://ly2853068942.github.io/a/630.jar;md5; FBA3E121A785D0F9241BA30FAD859B59",
+"spider":"https://ly2853068942.github.io/a/630.jar;md5;431CC67C9BBE8DDC7ACFD7DA5E4F7CA6",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9seTI4NTMwNjg5NDIuZ2l0aHViLmlvL2EvdHYvYmMudHh0"]}]}],
 "rules": [
   {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
