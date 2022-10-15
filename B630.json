@@ -46,6 +46,7 @@
 //{"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ly2853068942.github.io/a/修77.jar;md5;1B0FAE7C99B09C6F66D6C39B114580A9"},
 
 ## JS系列
+{"key": "drpy_js_AGE动漫","name": "AGE动漫[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ly2853068942/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"},
 {"key": "drpy_js_360影视","name": "360影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ly2853068942/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"},
 {"key": "drpy_js_555影视","name": "555影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ly2853068942/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/555影视.js"},
 {"key": "drpy_js_1080P","name": "1080P[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ly2853068942/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/1080P.js"},
@@ -88,7 +89,7 @@
 {"key": "drpy_js_在线之家","name": "在线之家[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ly2853068942/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/在线之家.js"},
 {"key": "drpy_js_真不卡","name": "真不卡[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ly2853068942/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/真不卡.js"},
 {"key": "drpy_js_追剧喵","name": "追剧喵[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ly2853068942/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/追剧喵.js"},
-
+{"key": "drpy_js_秋霞","name": "秋霞[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ly2853068942/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/秋霞.js"},
   
 ## XB系列  
 {"key":"csp_xpath_maiole","name":"💩喵乐(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXP/喵乐.json"},
