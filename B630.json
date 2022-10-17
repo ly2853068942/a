@@ -21,7 +21,7 @@
 {"key": "csp_LibVio","name": "🐞LibVio","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spide_Bttoo","name":"🎾2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🥒小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BBB","name":"🥒哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ly2853068942.github.io/a/MaooXB/bili.json"},
 //{"key":"csp_Dy555","name":"🥒Dy555(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
