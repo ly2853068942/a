@@ -19,11 +19,11 @@
 {"key":"csp_Lgyy","name":"🍎蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4公共","name":"🐼T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=123456789","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Wmkk","name": "🥒完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key": "看视界","name": "👒看视界(SP)","type": 3,"api": "csp_KanSJ","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "看视界","name": "👒看视界(SP)","type": 3,"api": "csp_KanSJ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "哔滴影视","name": "🐼哔滴影视(SP)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "小熊","name": "🐼小熊TV","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_Smdyy","name": "🎾神马影院〔SP〕","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key": "csp_LibVio","name": "🐞LibVio","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "csp_LibVio","name": "🐞LibVio","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spide_Bttoo","name":"🎾2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -131,7 +131,13 @@
 {"key": "drpy_js_88看球","name": "88看球[DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"},
 {"key": "drpy_js_JRS看球网","name": "JRS看球网[DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JRS看球网.js"},
 {"key": "drpy_js_抓饭体育","name": "抓饭体育[DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/抓饭体育.js"},
-
+{"key": "drpy_js_NY影院","name": "NY影院[DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/NY影院.js"},
+{"key": "drpy_js_兰花影院","name": "兰花影院[DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兰花影院.js"},
+{"key": "drpy_js_我爱电影网","name": "我爱电影网[DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/我爱电影网.js"},
+{"key": "drpy_js_爱酷影视","name": "爱酷影视DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱酷影视.js"},
+{"key": "drpy_js_独播库[飞]","name": "独播库[飞][DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/独播库[飞].js"},
+{"key": "drpy_js_豆芽影院","name": "豆芽影院[DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/豆芽影院.js"},
+{"key": "drpy_js_趣享星趣","name": "趣享星趣[DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/趣享星趣.js"},
 
 
 ## XB系列  
