@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://ly2853068942.github.io/a/630.jar;md5;0DE800421C4AE17DB9760784B1B566A9",
+"spider":"https://ly2853068942.github.io/a/630.jar;md5;8A50493D65218BDD6C9C0089F415DF2F",
 "lives":[{"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
   {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
   {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]},
@@ -16,6 +16,7 @@
 {"key": "AppTT","name": "🥒TT(SP)","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"key": "Anime1","name": "🎾日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"key": "csp_Lezhu","name": "🐷乐猪影视(SP)","type": 3,"api": "csp_Lezhu","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Lgyy","name":"🍎蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4公共","name":"🐼T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=123456789","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Wmkk","name": "🥒完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "看视界","name": "👒看视界(SP)","type": 3,"api": "csp_KanSJ","searchable": 1,"quickSearch": 1,"filterable": 1},
