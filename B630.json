@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://ly2853068942.github.io/a/630.jar;md5;44861EC36ED44ED550FD62EBD0769905",
+"spider":"https://ly2853068942.github.io/a/630.jar;md5;F13C4E7787CFE144974C0625EDD12C4C",
 "lives":[{"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
   {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
   {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]},
