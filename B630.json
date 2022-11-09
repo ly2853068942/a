@@ -43,7 +43,7 @@
 {"key":"push_agent","name":"🥒推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"7c31affadc5b4fe6b86787d4fb127768"},
 {"key":"FindZY","name":"🥒找资源(仅搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"7c31affadc5b4fe6b86787d4fb127768"},
 {"key":"美剧虫","name":"🥒美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.cc/api.php/v1.vod"},
-{"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 
 ## JS系列
 {"key": "drpy_js_完美看看","name": "完美看看[DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/完美看看.js"},
