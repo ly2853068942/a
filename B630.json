@@ -18,7 +18,7 @@
 {"key": "哔滴影视","name": "🐼哔滴影视(SP)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "小熊","name": "🐼小熊TV","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Smdyy","name": "🎾神马影院〔SP〕","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-//{"key": "csp_LibVio","name": "🐞LibVio","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_LibVio","name": "🐞LibVio","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spide_Bttoo","name":"🎾2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -140,7 +140,7 @@
 
 
 ## XB系列  
-{"key":"csp_xpath_maiole","name":"💩喵乐(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXP/喵乐.json"},
+{"key":"csp_xBPQ_LIBVIO","name":"🥒LIBVIO(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXP/LIBVIO.json"},
 {"key": "csp_biubiu_yekong","name": "🥒夜空高清","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://ly2853068942.github.io/a/MaooXB/yekong.json"},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ly2853068942.github.io/a/MaooXP/huya2.json"},
 {"key":"csp_biubiu_花猫影视","name": "🐱花猫影视(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ly2853068942.github.io/a/MaooXB/花猫影视.json"},
@@ -152,7 +152,6 @@
 {"key":"csp_biubiu_米来影视","name":"🥒米来影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXB/米来影视.json"},
 {"key":"csp_biubiu_厂长资源-蓝光","name":"🥒厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXB/厂长资源-蓝光.json"},
 {"key":"csp_biubiu_在线之家","name":"🥒在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXB/在线之家.json"},
-{"key":"csp_biubiu_LIBVIO","name":"🥒LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXB/LIBVIO.json"},
 {"key":"csp_biubiu_Auete影视","name":"🥒Auete影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXB/Auete影视.json"},
 {"key":"csp_biubiu_COKEMV","name":"🥒COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXB/COKEMV.json"},
 {"key":"csp_biubiu_影视工厂","name":"🥒影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ly2853068942.github.io/a/MaooXB/影视工厂.json"},
