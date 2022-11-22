@@ -1,6 +1,6 @@
 {
   "ua": "",
-  "homeUrl": "https://www.czspp.com",
+  "homeUrl": "https://www.c-zzy.com",
   "cateNode": "//ul[@class='navlist hidden-md-and-down']/li[contains(@id,'menu-item') and not (contains(@id,'33'))]/a",
   "cateName": "/text()",
   "cateId": "/@href",
@@ -30,7 +30,7 @@
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/div/span/text()",
   
-  "cateUrl": "https://www.czspp.com/{cateId}/page/{catePg}",
+  "cateUrl": "https://www.c-zzy.com/{cateId}/page/{catePg}",
   "cateVodNode": "//div[@class='bt_img mi_ne_kd mrb']/ul/li/a",
   "cateVodName": "/following-sibling::h3/a/text()",
   "cateVodId": "/@href",
@@ -39,7 +39,7 @@
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "/div/span/text()",
   
-  "dtUrl": "https://www.czspp.com/movie/{vid}.html",
+  "dtUrl": "https://www.c-zzy.com/movie/{vid}.html",
   "dtNode": "//div[@class='mi_ne_kd dypre']",
   "dtName": "/div[@class='dytext fl']/div/h1/text()",
   "dtNameR": "/movie/(\\w+).html",
@@ -69,10 +69,10 @@
   "dtUrlIdR": "/v_play/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
-  "playUrl": "https://www.czspp.com/v_play/{playUrl}.html",
+  "playUrl": "https://www.c-zzy.com/v_play/{playUrl}.html",
   "playUa": "",
   
-  "searchUrl": "https://www.czspp.com/xssearch?q={wd}",
+  "searchUrl": "https://www.c-zzy.com/xssearch?q={wd}",
   "scVodNode": "//div[@class='bt_img mi_ne_kd search_list']/ul/li/a",
   "scVodName": "/img/@alt",
   "scVodId": "/@href",
