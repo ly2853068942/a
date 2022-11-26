@@ -5,7 +5,7 @@
    
 "sites":[
 {"key": "农民","name": "🎾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ly2853068942.github.io/a/MaooXB/nongminyingshi.json"},
-{"key": "AppTT","name": "🥒TT(SP)","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"}, 
+{"key": "AppTT","name": "🥒TT(SP)","type": 3,"api": "csp_TutuYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://43.154.35.148:9797/api/tutuapp.php","jar":"http://rl1eetffv.bkt.clouddn.com/qj1122.jar;md5;1c8bcbb4ac6ca9f5926f32fb6c5aff21"}, 
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Anime1","name": "🎾日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"key": "csp_Lezhu","name": "🐷乐猪影视(SP)","type": 3,"api": "csp_Lezhu","searchable": 1,"quickSearch": 1,"filterable": 1},
