@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://ly2853068942.github.io/a/630.jar;md5;98388BD96327F94EAA9A3C74982F2506",
+"spider":"https://ly2853068942.github.io/a/630.jar;md5;EDAAC605B8F6C297B19D34464721F869",
 "lives": [{"name": "直播","type": 0,"url": "http://home.jundie.top:81/Cat/tv/live.txt"}],
  
    
@@ -28,7 +28,7 @@
 {"key":"csp_Dy555","name":"🥒Dy555(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ny","name":"💥念影(SP)","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_剧荒","name":"🥒剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
+{"key":"spider_Xinsj","name":"💖新视觉(SP)","type":3,"api":"csp_Xinsj","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🐼Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
