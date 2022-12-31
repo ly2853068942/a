@@ -211,7 +211,6 @@
 {"name":"大","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
 {"name":"随","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 {"name":"扒","type":1,"url":"rxjx.kuanjv.com/allm3u8.php?url="},
-{"name":"要","type":1,"url":"http://123.57.56.94:9931/lanlan/?url="},
 {"name":"客","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"了","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"再","type":1,"url":"https://hc.izny.cn/json.php?url="},
