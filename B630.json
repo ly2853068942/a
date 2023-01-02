@@ -1,12 +1,12 @@
 ﻿{
-"spider":"https://ly2853068942.github.io/a/630.jar;md5;32A6ADD640CC24E837C233D9B539F4FA",
+"spider":"https://ly2853068942.github.io/a/630.jar;md5;2280DF2EF7871C2ADF511530141CA78B",
 "lives": [{"name": "直播","type": 0,"url": "http://home.jundie.top:81/Cat/tv/live.txt"}],
  
    
 "sites":[
 {"key": "teng","name": "🐧小腾","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "农民","name": "🎾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ly2853068942.github.io/a/MaooXB/nongminyingshi.json"},
-{"key": "AppTT","name": "🥒TT(SP)","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://121.205.88.126:7788"}, 
+{"key": "csp_AppTT","name": "🥒TT(SP)","type": 3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://395652357.github.io/A/tang.jar","ext":"110c922de7d69804467fb83d3bb664b5"}, 
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Anime1","name": "🎾日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"key": "csp_Lezhu","name": "🐷乐猪影视(SP)","type": 3,"api": "csp_Lezhu","searchable": 1,"quickSearch": 1,"filterable": 1},
