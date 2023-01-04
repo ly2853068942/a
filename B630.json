@@ -50,9 +50,9 @@
 
 
 ## JS系列
-{"key": "drpy_js_布雷蓝光","name": "布雷蓝光[DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷蓝光.js"},
-{"key": "drpy_js_农民影视","name": "农民影视[DRPY]","type":3,"api":"https://ly2853068942.github.io/a/lib/drpy.ym.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/农民影视.js"},
-{"key": "drpy_js_胖虎","name": "胖虎[DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/胖虎.js"},
+{"key": "drpy_js_布雷蓝光","name": "布雷蓝光[DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷蓝光.js"},
+{"key": "drpy_js_农民影视","name": "农民影视[DRPY]","type":3,"api":"https://ly2853068942.github.io/a/lib/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/农民影视.js"},
+{"key": "drpy_js_胖虎","name": "胖虎[DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/胖虎.js"},
 {"key": "drpy_js_完美看看","name": "完美看看[DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/完美看看.js"},
 {"key": "drpy_js_快看","name": "快看[DRPY]","type":3,"api":"https://ly2853068942.github.io/a/lib/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/快看.js"},
 {"key": "drpy_js_360影视","name": "360影视[DRPY]","type": 3,"api": "https://ly2853068942.github.io/a/lib/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"},
