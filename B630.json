@@ -42,7 +42,6 @@
 {"key":"csp_Fantuan","name": "🥒饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Tkys","name": "🥒天空影视","api":"csp_Tkys","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Panghu","name": "🥒胖虎","api":"csp_Panghu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key": "csp_Nkdy","name": "🗽耐看(SP)","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Paper","name":"🦊小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"csp_PanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"YiSo","name":"😹易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
