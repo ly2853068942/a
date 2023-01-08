@@ -42,7 +42,7 @@
 {"key":"csp_Fantuan","name": "🥒饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Tkys","name": "🥒天空影视","api":"csp_Tkys","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Panghu","name": "🥒胖虎","api":"csp_Panghu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key": "csp_Nkdy","name": "🗽耐看┃SP","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Nkdy","name": "🗽耐看(SP)","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Paper","name":"🦊小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"csp_PanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"YiSo","name":"😹易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
@@ -210,22 +210,124 @@
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
-{"name": "Web聚合","type": 3,"url": "Web"},
-{"name": "全部","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url="},
-{"name": "来自","type": 1,"url": "http://pandown.pro/app/ysmjx.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],
-"header": {"User-Agent": "okhttp/4.1.0"}}},
-{"name": "网络","type": 1,"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
-{"name": "💋So丶","type": 0,"url": "https://tljiaqing.nde.tw/m3u8/?url="},
-{"name": "大家","type": 1,"url": "http://45.248.10.163:4433/json.php?wap=0&url=},
-{"name": "随便","type": 0,"url": "https://h5.freejson.xyz/player/?url="},
-{"name": "弄","type": 1,"url": "rxjx.kuanjv.com/allm3u8.php?url=},
-{"name": "不要","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
-{"name": "客气","type": 1,"url": "http://lanlan.ckflv.cn/?url=","ext": {"flag": "qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu""xigua","1905"]}},
-{"name": "坏了","type": 1,"url": "https://www.1920lgzy.top/json.php?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}},
-{"name": "我再","type": 1,"url": "https://hc.izny.cn/json.php?url="},
-{"name": "去找","type": 1,"url": "https://rx.bt5v.com/json/jsonindex.php/?url="},
-{"name": "来","type": 1,"url": "https://www.nxflv.com/?url="},
-{"name": "野","type": 1,"url": "http://3.37.195.161:54371/parse/api/无名.js?url="}
+{
+            "name": "Web聚合",
+            "type": 3,
+            "url": "Web"
+        },
+        {
+            "name": "全部",
+            "type": 1,
+            "url": "https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url="
+        },
+        {
+            "name": "来自",
+            "type": 1,
+            "url": "http://pandown.pro/app/ysmjx.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "网络",
+            "type": 1,
+            "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
+        },
+        {
+            "name": "💋So丶",
+            "type": 0,
+            "url": "https://tljiaqing.nde.tw/m3u8/?url="
+        },
+        {
+            "name": "大家",
+            "type": 1,
+            "url": "http://45.248.10.163:4433/json.php?wap=0&url="
+        },
+        {
+            "name": "随便",
+            "type": 0,
+            "url": "https://h5.freejson.xyz/player/?url="
+        },
+        {
+            "name": "弄",
+            "type": 1,
+            "url": "rxjx.kuanjv.com/allm3u8.php?url="
+        },
+        {
+            "name": "不要",
+            "type": 1,
+            "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+        },
+        {
+            "name": "客气",
+            "type": 1,
+            "url": "http://lanlan.ckflv.cn/?url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "qq",
+                    "letv",
+                    "sohu",
+                    "youku",
+                    "mgtv",
+                    "bilibili",
+                    "wasu",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "name": "坏了",
+            "type": 1,
+            "url": "https://www.1920lgzy.top/json.php?url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "Mozilla/5.0"
+                }
+            }
+        },
+        {
+            "name": "我再",
+            "type": 1,
+            "url": "https://hc.izny.cn/json.php?url="
+        },
+        {
+            "name": "去找",
+            "type": 1,
+            "url": "https://rx.bt5v.com/json/jsonindex.php/?url="
+        },
+        {
+            "name": "来",
+            "type": 1,
+            "url": "https://www.nxflv.com/?url="
+        },
+        {
+            "name": "野",
+            "type": 1,
+            "url": "http://3.37.195.161:54371/parse/api/无名.js?url="
+        }
 ],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
