@@ -207,8 +207,12 @@
 ],
 
 "parses":[
-{"name":"解析聚合","type":3,"url":"Demo"},
 {
+            "name": "Json聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
             "name": "Web聚合",
             "type": 3,
             "url": "Web"
@@ -216,10 +220,21 @@
         {
             "name": "全部",
             "type": 1,
-            "url": "https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url="
+            "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
         },
         {
-            "name": "来自",
+            "name": "自",
+            "type": 1,
+            "url": "https://parse.ikunfk.cc/parse/sign/20230117?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "来",
             "type": 1,
             "url": "http://pandown.pro/app/ysmjx.php?url=",
             "ext": {
@@ -319,15 +334,112 @@
         {
             "name": "来",
             "type": 1,
-            "url": "https://www.nxflv.com/?url="
+            "url": "https://www.nxflv.com/?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
         },
         {
             "name": "野",
             "type": 1,
-            "url": "http://3.37.195.161:54371/parse/api/无名.js?url="
+            "url": "http://3.37.195.161:54371/parse/api/无名.js?url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
         }
-],
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+    ],
+    "rules": [
+        {
+            "host": "*",
+            "rule": [
+                "default.365yg.com"
+            ]
+        },
+        {
+            "host": "dyxs20.com",
+            "rule": [
+                ".m3u8"
+            ]
+        },
+        {
+            "host": "www.agemys.cc",
+            "rule": [
+                "cdn-tos",
+                "obj/tos-cn"
+            ]
+        },
+        {
+            "host": "www.sharenice.net",
+            "rule": [
+                "http.*?/play.{0,3}\\?[^url]{2,8}=.*"
+            ]
+        },
+        {
+            "host": "www.sharenice.net",
+            "rule": [
+                "qianpailive.com",
+                "vid="
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "douyin.com/aweme",
+                "video_id="
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "huoshan.com",
+                "/item/video/"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
+            ]
+        }
+    ],
+    "flags": [
+        "youku",
+        "qq",
+        "QQ",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "PPTV",
+        "mgtv",
+        "ltnb",
+        "rx",
+        "CL4K",
+        "xfyun",
+        "wuduzy",
+        "wasu",
+        "bilibili",
+        "renrenmi",
+        "xmm",
+        "xigua",
+        "m1905",
+        "funshion",
+        "优酷",
+        "芒果",
+        "腾讯",
+        "爱奇艺",
+        "奇艺",
+        "哔哩哔哩",
+        "哔哩"
+    ],
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
