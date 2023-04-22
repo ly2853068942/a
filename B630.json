@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://ly2853068942.github.io/a/630.jar;md5;613066B0150C902B3D51BDE7A433BE83",
+"spider":"https://ly2853068942.github.io/a/630.jar;md5;43927C91E9C631D24057BE2E400DC8A5",
 "lives": [{"name": "直播","type": 0,"url": "http://home.jundie.top:81/Cat/tv/live.txt"}],
  
    
@@ -21,7 +21,7 @@
 {"key":"csp_DiDuan" ,"name":"⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Bttoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"📕Cokemv(SP)","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_YQKAPP","name":"🎉一起看(SP)","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
+{"key":"csp_YQKAPP","name":"🎉一起看(SP)","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"csp_AppTT","name":"🐰TT(SP)","type":3,"api":"csp_AppTT","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_apple","name":"🍎苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name": "🌟Libvio(SP)","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://tv.libvio.cc/"},
