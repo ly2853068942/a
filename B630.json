@@ -1,10 +1,10 @@
 ﻿{
-"spider":"https://ly2853068942.github.io/a/630.jar;md5;43927C91E9C631D24057BE2E400DC8A5",
+"spider":"https://ly2853068942.github.io/a/630.jar;md5;3FB7A166650CDE24E9BF51BC5C76E73C",
 "lives": [{"name": "直播","type": 0,"url": "http://home.jundie.top:81/Cat/tv/live.txt"}],
  
    
 "sites":[
-{"key":"csp_BuLei","name":"💢布雷(SP)","type":3,"api":"csp_BuLei","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_BuLei","name":"💢布雷(SP)","type":3,"api":"csp_BuLei","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://movie.bulei.cc$$$login$$$lye123456$$$liye2625994yeli"},
 {"key": "农民","name": "🎾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ly2853068942.github.io/a/MaooXB/nongminyingshi.json"},
 {"key":"csp_77","name":"👒七七（SP）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
